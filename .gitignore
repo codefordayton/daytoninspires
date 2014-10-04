@@ -1,0 +1,5 @@
+*.bak
+bower_components
+.DS_STORE
+*.swp
+.tmp

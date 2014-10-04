@@ -1,0 +1,16 @@
+{
+    "name": "ImageGenerator",
+    "version": "0.0.1",
+    "main": "app.js",
+    "homepage": "https://github.com/codefordayton/ImageGenerator",
+    "ignore": ["examples"],
+    "dependencies": {
+        "angular": "~1.2.26",
+        "angular-file-upload": ">=0.5.8",
+        "jspdf": ">1.0.0",
+        "jquery": "~1.9.1"
+    },
+    "keywords": [
+        "angular"
+    ]
+}
